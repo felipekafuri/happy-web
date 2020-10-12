@@ -7,6 +7,8 @@
 
 # The application
 ![home](https://user-images.githubusercontent.com/45128599/95762602-4e12bf80-0c84-11eb-9139-80558d2e9570.png)
+![Screenshot from 2020-10-12 12-14-22](https://user-images.githubusercontent.com/45128599/95762791-8fa36a80-0c84-11eb-889f-b2fd41d7d523.png)
+
 
 ## Techs 
 - ReactJS
