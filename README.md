@@ -6,7 +6,7 @@
 
 
 # The application
-
+![home](https://user-images.githubusercontent.com/45128599/95762602-4e12bf80-0c84-11eb-9139-80558d2e9570.png)
 
 ## Techs 
 - ReactJS
