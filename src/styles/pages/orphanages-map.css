@@ -36,7 +36,7 @@
 }
 
 #page-map aside footer strong{
-  font-weight: 800px;
+  font-weight: 800;
 }
 #page-map .leaflet-container{
   z-index: 9;
@@ -62,6 +62,6 @@
 
 }
 
-#page-map .create-orphanage:hover{
+#page-map .create-orphanages:hover{
   background: #17d6eb;
 }
